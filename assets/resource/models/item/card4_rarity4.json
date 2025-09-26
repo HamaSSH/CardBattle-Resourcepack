@@ -1,0 +1,31 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [76, 23],
+	"textures": {
+		"0": "resource:item/card_back",
+		"particle": "resource:item/card_back"
+	},
+	"elements": [
+		{
+			"from": [-1, 0, 0],
+			"to": [17, 23, 0],
+			"rotation": {"angle": 0, "axis": "x", "origin": [-1, 0, 0]},
+			"faces": {
+				"north": {"uv": [12, 0, 15.78947, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [12, 0, 15.78947, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 0, 12.52174], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 12.52174], "rotation": 90, "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"head": {
+			"translation": [14, -10, -16],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

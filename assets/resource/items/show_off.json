@@ -1,0 +1,197 @@
+{
+    "model": {
+        "type": "composite",
+        "models": [
+            {
+                "type": "select",
+                "property": "custom_model_data",
+                "index": 0,
+                "cases": [
+                    {
+                        "when": "1",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card1_rarity1"
+                        }
+                    },
+                    {
+                        "when": "2",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card1_rarity2"
+                        }
+                    },
+                    {
+                        "when": "3",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card1_rarity3"
+                        }
+                    },
+                    {
+                        "when": "4",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card1_rarity4"
+                        }
+                    }
+                ],
+                "fallback": {
+                    "type": "empty"
+                }
+            },
+            {
+                "type": "select",
+                "property": "custom_model_data",
+                "index": 1,
+                "cases": [
+                    {
+                        "when": "1",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card2_rarity1"
+                        }
+                    },
+                    {
+                        "when": "2",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card2_rarity2"
+                        }
+                    },
+                    {
+                        "when": "3",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card2_rarity3"
+                        }
+                    },
+                    {
+                        "when": "4",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card2_rarity4"
+                        }
+                    }
+                ],
+                "fallback": {
+                    "type": "empty"
+                }
+            },
+            {
+                "type": "select",
+                "property": "custom_model_data",
+                "index": 2,
+                "cases": [
+                    {
+                        "when": "1",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card3_rarity1"
+                        }
+                    },
+                    {
+                        "when": "2",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card3_rarity2"
+                        }
+                    },
+                    {
+                        "when": "3",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card3_rarity3"
+                        }
+                    },
+                    {
+                        "when": "4",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card3_rarity4"
+                        }
+                    }
+                ],
+                "fallback": {
+                    "type": "empty"
+                }
+            },
+            {
+                "type": "select",
+                "property": "custom_model_data",
+                "index": 3,
+                "cases": [
+                    {
+                        "when": "1",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card4_rarity1"
+                        }
+                    },
+                    {
+                        "when": "2",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card4_rarity2"
+                        }
+                    },
+                    {
+                        "when": "3",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card4_rarity3"
+                        }
+                    },
+                    {
+                        "when": "4",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card4_rarity4"
+                        }
+                    }
+                ],
+                "fallback": {
+                    "type": "empty"
+                }
+            },
+            {
+                "type": "select",
+                "property": "custom_model_data",
+                "index": 4,
+                "cases": [
+                    {
+                        "when": "1",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card5_rarity1"
+                        }
+                    },
+                    {
+                        "when": "2",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card5_rarity2"
+                        }
+                    },
+                    {
+                        "when": "3",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card5_rarity3"
+                        }
+                    },
+                    {
+                        "when": "4",
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/card5_rarity4"
+                        }
+                    }
+                ],
+                "fallback": {
+                    "type": "empty"
+                }
+            }
+        ]
+    }
+}

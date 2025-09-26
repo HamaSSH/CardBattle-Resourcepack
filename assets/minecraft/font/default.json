@@ -1,0 +1,131 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "\uF800": 0,
+                "\uF801": -1,
+                "\uF802": -2,
+                "\uF803": -3,
+                "\uF804": -4,
+                "\uF805": -5,
+                "\uF806": -6,
+                "\uF807": -7,
+                "\uF808": -8,
+                "\uF809": -16,
+                "\uF80A": -32,
+                "\uF80B": -64,
+                "\uF80C": -128,
+                "\uF80D": -256,
+                "\uF80E": -512,
+                "\uF80F": -32768,
+                "\uF820": 0,
+                "\uF821": 1,
+                "\uF822": 2,
+                "\uF823": 3,
+                "\uF824": 4,
+                "\uF825": 5,
+                "\uF826": 6,
+                "\uF827": 7,
+                "\uF828": 8,
+                "\uF829": 16,
+                "\uF82A": 32,
+                "\uF82B": 64,
+                "\uF82C": 128,
+                "\uF82D": 256,
+                "\uF82E": 512,
+                "\uF82F": 32768
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": -1000,
+            "height": 92,
+            "chars": [
+                "\uF100\uF200\uF300\uF400"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 36,
+            "height": 92,
+            "chars": [
+                "\uF101\uF201\uF301\uF401"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 29,
+            "height": 92,
+            "chars": [
+                "\uF102\uF202\uF302\uF402"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 23,
+            "height": 92,
+            "chars": [
+                "\uF103\uF203\uF303\uF403"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 18,
+            "height": 92,
+            "chars": [
+                "\uF104\uF204\uF304\uF404"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 14,
+            "height": 92,
+            "chars": [
+                "\uF105\uF205\uF305\uF405"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 11,
+            "height": 92,
+            "chars": [
+                "\uF106\uF206\uF306\uF406"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 9,
+            "height": 92,
+            "chars": [
+                "\uF107\uF207\uF307\uF407"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 8,
+            "height": 92,
+            "chars": [
+                "\uF108\uF208\uF308\uF408"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 7,
+            "height": 92,
+            "chars": [
+                "\uF109\uF209\uF309\uF409"
+            ]
+        }
+    ]
+}
