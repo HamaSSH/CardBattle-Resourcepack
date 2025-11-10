@@ -126,6 +126,56 @@
             "chars": [
                 "\uF109\uF209\uF309\uF409"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_flip1.png",
+            "ascent": 7,
+            "height": 92,
+            "chars": [
+                "\uF10A\uF20A\uF30A\uF40A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_flip2.png",
+            "ascent": 7,
+            "height": 92,
+            "chars": [
+                "\uF10B\uF20B\uF30B\uF40B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_flip3.png",
+            "ascent": 7,
+            "height": 92,
+            "chars": [
+                "\uF10C\uF20C\uF30C\uF40C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_flip4.png",
+            "ascent": 7,
+            "height": 92,
+            "chars": [
+                "\uF10D\uF20D\uF30D\uF40D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/cards.png",
+            "ascent": 9,
+            "height": 20,
+            "chars": [
+                "\uF556","\uF557","\uF558","\uF559","\uF560",
+                "\uF561","\uF562","\uF563","\uF564","\uF565",
+                "\uF566","\uF567","\uF568","\uF569","\uF570",
+                "\uF571","\uF572","\uF573","\uF574","\uF575",
+                "\uF576","\uF577","\uF578","\uF579","\uF580",
+                "\uF581","\uF582","\uF583","\uF584","\uF585"
+            ]
         }
     ]
 }
