@@ -302,126 +302,135 @@
             "type": "bitmap",
             "file": "resource:font/card_back.png",
             "ascent": -1000,
-            "height": 92,
+            "height": 20,
             "chars": [
-                "\uF100\uF200\uF300\uF400"
+                "\uF100","\uF200","\uF300","\uF400"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_back.png",
-            "ascent": 36,
-            "height": 92,
+            "ascent": 20,
+            "height": 20,
             "chars": [
-                "\uF101\uF201\uF301\uF401"
+                "\uF101","\uF201","\uF301","\uF401"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_back.png",
-            "ascent": 29,
-            "height": 92,
+            "ascent": 17,
+            "height": 20,
             "chars": [
-                "\uF102\uF202\uF302\uF402"
+                "\uF102","\uF202","\uF302","\uF402"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_back.png",
-            "ascent": 23,
-            "height": 92,
+            "ascent": 15,
+            "height": 20,
             "chars": [
-                "\uF103\uF203\uF303\uF403"
+                "\uF103","\uF203","\uF303","\uF403"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_back.png",
-            "ascent": 18,
-            "height": 92,
+            "ascent": 13,
+            "height": 20,
             "chars": [
-                "\uF104\uF204\uF304\uF404"
+                "\uF104","\uF204","\uF304","\uF404"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_back.png",
-            "ascent": 14,
-            "height": 92,
+            "ascent": 12,
+            "height": 20,
             "chars": [
-                "\uF105\uF205\uF305\uF405"
+                "\uF105","\uF205","\uF305","\uF405"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_back.png",
             "ascent": 11,
-            "height": 92,
+            "height": 20,
             "chars": [
-                "\uF106\uF206\uF306\uF406"
+                "\uF106","\uF206","\uF306","\uF406"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_back.png",
+            "ascent": 10,
+            "height": 20,
+            "chars": [
+                "\uF107","\uF207","\uF307","\uF407"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_back.png",
             "ascent": 9,
-            "height": 92,
+            "height": 20,
             "chars": [
-                "\uF107\uF207\uF307\uF407"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "resource:font/card_back.png",
-            "ascent": 8,
-            "height": 92,
-            "chars": [
-                "\uF108\uF208\uF308\uF408"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "resource:font/card_back.png",
-            "ascent": 7,
-            "height": 92,
-            "chars": [
-                "\uF109\uF209\uF309\uF409"
+                "\uF108","\uF208","\uF308","\uF408"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_flip1.png",
-            "ascent": 7,
-            "height": 92,
+            "ascent": 9,
+            "height": 20,
             "chars": [
-                "\uF10A\uF20A\uF30A\uF40A"
+                "\uF10A","\uF20A","\uF30A","\uF40A"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_flip2.png",
-            "ascent": 7,
-            "height": 92,
+            "ascent": 9,
+            "height": 20,
             "chars": [
-                "\uF10B\uF20B\uF30B\uF40B"
+                "\uF10B","\uF20B","\uF30B","\uF40B"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_flip3.png",
-            "ascent": 7,
-            "height": 92,
+            "ascent": 9,
+            "height": 20,
             "chars": [
-                "\uF10C\uF20C\uF30C\uF40C"
+                "\uF10C","\uF20C","\uF30C","\uF40C"
             ]
         },
         {
             "type": "bitmap",
             "file": "resource:font/card_flip4.png",
-            "ascent": 7,
-            "height": 92,
+            "ascent": 9,
+            "height": 20,
             "chars": [
-                "\uF10D\uF20D\uF30D\uF40D"
+                "\uF10D","\uF20D","\uF30D","\uF40D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_flip5.png",
+            "ascent": 9,
+            "height": 20,
+            "chars": [
+                "\uF10E","\uF20E","\uF30E","\uF40E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/card_flip6.png",
+            "ascent": 9,
+            "height": 20,
+            "chars": [
+                "\uF10F","\uF20F","\uF30F","\uF40F"
             ]
         },
         {
