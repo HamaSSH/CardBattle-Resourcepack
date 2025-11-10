@@ -1,0 +1,7 @@
+{
+    "model": {
+        "type": "model",
+        "model": "resource:item/cards/76"
+    },
+    "hand_animation_on_swap": false
+}
