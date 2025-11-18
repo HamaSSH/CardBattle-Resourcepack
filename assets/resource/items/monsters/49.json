@@ -1,0 +1,7 @@
+﻿{
+    "model": {
+        "type": "model",
+        "model": "resource:item/monsters/49"
+    },
+    "hand_animation_on_swap": false
+}
