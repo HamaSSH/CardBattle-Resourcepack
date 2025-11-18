@@ -525,6 +525,15 @@
                 "\uF584",
                 "\uF585"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/ui.png",
+            "ascent": 17,
+            "height": 80,
+            "chars": [
+                "\uF600"
+            ]
         }
     ]
 }
