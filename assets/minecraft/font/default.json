@@ -534,6 +534,15 @@
             "chars": [
                 "\uF600"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/icons.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "♡⚔"
+            ]
         }
     ]
 }
