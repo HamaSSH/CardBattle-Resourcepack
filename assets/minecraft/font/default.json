@@ -543,6 +543,15 @@
             "chars": [
                 "♡⚔"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "resource:font/square.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "⊡▣▨"
+            ]
         }
     ]
 }
