@@ -1,0 +1,7 @@
+{
+    "model": {
+        "type": "model",
+        "model": "resource:item/monsters/candog_2"
+    },
+    "hand_animation_on_swap": false
+}

@@ -11,28 +11,28 @@
                         "when": "1",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card1_rarity1"
+                            "model": "resource:item/show_off/card1_rarity1"
                         }
                     },
                     {
                         "when": "2",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card1_rarity2"
+                            "model": "resource:item/show_off/card1_rarity2"
                         }
                     },
                     {
                         "when": "3",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card1_rarity3"
+                            "model": "resource:item/show_off/card1_rarity3"
                         }
                     },
                     {
                         "when": "4",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card1_rarity4"
+                            "model": "resource:item/show_off/card1_rarity4"
                         }
                     }
                 ],
@@ -49,28 +49,28 @@
                         "when": "1",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card2_rarity1"
+                            "model": "resource:item/show_off/card2_rarity1"
                         }
                     },
                     {
                         "when": "2",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card2_rarity2"
+                            "model": "resource:item/show_off/card2_rarity2"
                         }
                     },
                     {
                         "when": "3",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card2_rarity3"
+                            "model": "resource:item/show_off/card2_rarity3"
                         }
                     },
                     {
                         "when": "4",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card2_rarity4"
+                            "model": "resource:item/show_off/card2_rarity4"
                         }
                     }
                 ],
@@ -87,28 +87,28 @@
                         "when": "1",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card3_rarity1"
+                            "model": "resource:item/show_off/card3_rarity1"
                         }
                     },
                     {
                         "when": "2",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card3_rarity2"
+                            "model": "resource:item/show_off/card3_rarity2"
                         }
                     },
                     {
                         "when": "3",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card3_rarity3"
+                            "model": "resource:item/show_off/card3_rarity3"
                         }
                     },
                     {
                         "when": "4",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card3_rarity4"
+                            "model": "resource:item/show_off/card3_rarity4"
                         }
                     }
                 ],
@@ -125,28 +125,28 @@
                         "when": "1",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card4_rarity1"
+                            "model": "resource:item/show_off/card4_rarity1"
                         }
                     },
                     {
                         "when": "2",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card4_rarity2"
+                            "model": "resource:item/show_off/card4_rarity2"
                         }
                     },
                     {
                         "when": "3",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card4_rarity3"
+                            "model": "resource:item/show_off/card4_rarity3"
                         }
                     },
                     {
                         "when": "4",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card4_rarity4"
+                            "model": "resource:item/show_off/card4_rarity4"
                         }
                     }
                 ],
@@ -163,28 +163,28 @@
                         "when": "1",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card5_rarity1"
+                            "model": "resource:item/show_off/card5_rarity1"
                         }
                     },
                     {
                         "when": "2",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card5_rarity2"
+                            "model": "resource:item/show_off/card5_rarity2"
                         }
                     },
                     {
                         "when": "3",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card5_rarity3"
+                            "model": "resource:item/show_off/card5_rarity3"
                         }
                     },
                     {
                         "when": "4",
                         "model": {
                             "type": "model",
-                            "model": "resource:item/card5_rarity4"
+                            "model": "resource:item/show_off/card5_rarity4"
                         }
                     }
                 ],

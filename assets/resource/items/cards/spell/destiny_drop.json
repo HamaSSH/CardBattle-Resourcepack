@@ -1,0 +1,7 @@
+{
+    "model": {
+        "type": "model",
+        "model": "resource:item/cards/spell/destiny_drop"
+    },
+    "hand_animation_on_swap": false
+}

@@ -1,0 +1,63 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "resource:item/cards/monster/foeeru_2"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "scale": [
+                0,
+                0,
+                0
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                68,
+                0,
+                0
+            ],
+            "translation": [
+                0,
+                5,
+                11.25
+            ],
+            "scale": [
+                1.145,
+                1.6,
+                1.6
+            ]
+        },
+        "firstperson_righthand": {
+            "translation": [
+                0,
+                8,
+                0
+            ],
+            "scale": [
+                0.57,
+                0.8,
+                0.8
+            ]
+        },
+        "firstperson_lefthand": {
+            "translation": [
+                0,
+                8,
+                0
+            ],
+            "scale": [
+                0.57,
+                0.8,
+                0.8
+            ]
+        },
+        "gui": {
+            "scale": [
+                0.71,
+                1,
+                1
+            ]
+        }
+    }
+}

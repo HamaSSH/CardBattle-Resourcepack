@@ -1,0 +1,7 @@
+{
+    "model": {
+        "type": "model",
+        "model": "resource:item/monsters/rinmei"
+    },
+    "hand_animation_on_swap": false
+}

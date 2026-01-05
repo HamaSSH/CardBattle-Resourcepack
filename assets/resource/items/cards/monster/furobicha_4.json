@@ -1,0 +1,7 @@
+{
+    "model": {
+        "type": "model",
+        "model": "resource:item/cards/monster/furobicha_4"
+    },
+    "hand_animation_on_swap": false
+}

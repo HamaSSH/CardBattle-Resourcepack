@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "resource:item/monsters/tochameka_2"
+    }
+}
