@@ -1,7 +1,0 @@
-{
-    "model": {
-        "type": "model",
-        "model": "resource:item/monsters/donjamo_1"
-    },
-    "hand_animation_on_swap": false
-}

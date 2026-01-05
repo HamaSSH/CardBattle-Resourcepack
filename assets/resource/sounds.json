@@ -1,7 +1,7 @@
 {
     "card.rarity_1.art_type_0": {
         "sounds": [
-            {"name": "resource:1"}
+            {"name": "resource:1","volume": 0.7}
         ]
     },
     "card.rarity_1.art_type_1": {
@@ -21,7 +21,7 @@
     },
     "card.rarity_2.art_type_0": {
         "sounds": [
-            {"name": "resource:2"}
+            {"name": "resource:2","volume": 0.7}
         ]
     },
     "card.rarity_2.art_type_1": {
@@ -41,7 +41,7 @@
     },
     "card.rarity_3.art_type_0": {
         "sounds": [
-            {"name": "resource:3"}
+            {"name": "resource:3","volume": 0.7}
         ]
     },
     "card.rarity_3.art_type_1": {
@@ -61,7 +61,7 @@
     },
     "card.rarity_4.art_type_0": {
         "sounds": [
-            {"name": "resource:4"}
+            {"name": "resource:4","volume": 0.7}
         ]
     },
     "card.rarity_4.art_type_1": {
