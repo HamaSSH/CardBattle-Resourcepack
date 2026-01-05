@@ -1,0 +1,82 @@
+{
+    "card.rarity_1.art_type_0": {
+        "sounds": [
+            {"name": "resource:1"}
+        ]
+    },
+    "card.rarity_1.art_type_1": {
+        "sounds": [
+            {"name": "resource:1_weak"}
+        ]
+    },
+    "card.rarity_1.art_type_2": {
+        "sounds": [
+            {"name": "resource:1_mid"}
+        ]
+    },
+    "card.rarity_1.art_type_3": {
+        "sounds": [
+            {"name": "resource:1_strong"}
+        ]
+    },
+    "card.rarity_2.art_type_0": {
+        "sounds": [
+            {"name": "resource:2"}
+        ]
+    },
+    "card.rarity_2.art_type_1": {
+        "sounds": [
+            {"name": "resource:2_weak"}
+        ]
+    },
+    "card.rarity_2.art_type_2": {
+        "sounds": [
+            {"name": "resource:2_mid"}
+        ]
+    },
+    "card.rarity_2.art_type_3": {
+        "sounds": [
+            {"name": "resource:2_strong"}
+        ]
+    },
+    "card.rarity_3.art_type_0": {
+        "sounds": [
+            {"name": "resource:3"}
+        ]
+    },
+    "card.rarity_3.art_type_1": {
+        "sounds": [
+            {"name": "resource:3_weak"}
+        ]
+    },
+    "card.rarity_3.art_type_2": {
+        "sounds": [
+            {"name": "resource:3_mid"}
+        ]
+    },
+    "card.rarity_3.art_type_3": {
+        "sounds": [
+            {"name": "resource:3_strong"}
+        ]
+    },
+    "card.rarity_4.art_type_0": {
+        "sounds": [
+            {"name": "resource:4"}
+        ]
+    },
+    "card.rarity_4.art_type_1": {
+        "sounds": [
+            {"name": "resource:4_weak"}
+        ]
+    },
+    "card.rarity_4.art_type_2": {
+        "sounds": [
+            {"name": "resource:4_mid"}
+        ]
+    },
+    "card.rarity_4.art_type_3": {
+        "sounds": [
+            {"name": "resource:4_strong"}
+        ]
+    }
+}
