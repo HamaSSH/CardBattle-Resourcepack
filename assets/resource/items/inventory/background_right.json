@@ -1,0 +1,21 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:model",
+                "model": "resource:item/inventory/background4"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "resource:item/inventory/background3"
+            },
+            {
+                "type": "minecraft:model",
+                "model": "resource:item/inventory/right/cost/5"
+            }
+        ]
+    },
+    "oversized_in_gui": true,
+    "hand_animation_on_swap": false
+}

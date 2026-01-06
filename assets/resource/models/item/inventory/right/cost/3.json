@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "resource:item/inventory/cost/3"
+    },
+    "gui_light": "front",
+    "display": {
+        "gui": {
+            "translation": [-18,0,0],
+            "rotation": [0,0,180],
+            "scale": [3.39,3.39,3.39]
+        }
+    }
+}

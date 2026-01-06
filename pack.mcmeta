@@ -1,6 +1,8 @@
 {
     "pack": {
-        "pack_format": 46,
+        "pack_format": 75,
+        "min_format": 75.0,
+        "max_format": 75.0,
         "description": "nichijo-card_battle"
     }
 }
