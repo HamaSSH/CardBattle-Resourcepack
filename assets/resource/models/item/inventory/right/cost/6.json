@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "resource:item/inventory/cost/6_right"
+    },
+    "display": {
+        "gui": {
+            "translation": [-72,0,0],
+            "scale": [3.39,3.39,3.39]
+        }
+    }
+}

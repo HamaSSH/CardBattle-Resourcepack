@@ -1,18 +1,77 @@
 {
     "model": {
-        "type": "minecraft:composite",
+        "type": "composite",
         "models": [
             {
-                "type": "minecraft:model",
+                "type": "model",
                 "model": "resource:item/inventory/background4"
             },
             {
-                "type": "minecraft:model",
+                "type": "model",
                 "model": "resource:item/inventory/background3"
             },
             {
-                "type": "minecraft:model",
-                "model": "resource:item/inventory/right/cost/5"
+                "type": "range_dispatch",
+                "property": "custom_model_data",
+                "entries": [
+                    {
+                        "model": {
+                            "type": "empty"
+                        },
+                        "threshold": 0
+                    },
+                    {
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/inventory/right/cost/1"
+                        },
+                        "threshold": 1
+                    },
+                    {
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/inventory/right/cost/2"
+                        },
+                        "threshold": 2
+                    },
+                    {
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/inventory/right/cost/3"
+                        },
+                        "threshold": 3
+                    },
+                    {
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/inventory/right/cost/4"
+                        },
+                        "threshold": 4
+                    },
+                    {
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/inventory/right/cost/5"
+                        },
+                        "threshold": 5
+                    }
+                ]
+            },
+            {
+                "type": "range_dispatch",
+                "property": "custom_model_data",
+                "entries": [
+                    {
+                        "model": {
+                            "type": "model",
+                            "model": "resource:item/inventory/right/cost/6"
+                        },
+                        "threshold": 6
+                    }
+                ],
+                "fallback": {
+                    "type": "minecraft:empty"
+                }
             }
         ]
     },
